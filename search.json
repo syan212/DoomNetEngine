@@ -5,13 +5,18 @@
     "content": "Perplexity page"
   },
   {
+    "title": "Focus on Sound",
+    "url": "https://fosuk.server1.apps.focusonsound.com/",
+    "content": "Focus focus on On sound Sound"
+  },
+  {
     "title": "Searchable Site List",
     "url": "Searchable-Sites.md",
     "content": "Searchable Site Name List"
   },
   {
     "title": "Site list download",
-    "url": "download-the-searchable.html",
+    "url": "downloads.html",
     "content": "Searchable Site List Download"
   },
   {
@@ -65,9 +70,33 @@
     "content": "Microsoft teams for habs"
   },
   {
-    "title": "justdoinghomework",
-    "url": "https://www.justdoinghomework.com/",
-    "content": "NOTCHESS"
+    "title": "Gomoku",
+    "url": "https://gomokuonline.com",
+    "content": "Online Gomoku"
+  },
+  {
+    "title": "Credits",
+    "url": "Content/Credits.txt",
+    "content": "DoomNet Engine credits"
+  },
+  {
+    "title": "Youtube",
+    "url": "https://youtu.be",
+    "content": "YouTube"
+  },
+  {
+    "title": "Chess.com",
+    "url": "https://chess.com",
+    "content": "chess.com"
+  },
+  {
+    "title": "ChatGPT",
+    "url": "https://chat.openai.com",
+    "content": "ChatGPT"
+  },
+  {
+    "title": "Perplexity Ai",
+    "url": "https://perplexity.ai",
+    "content": "Perplexity AI"
   }
 ]
-

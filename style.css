@@ -18,14 +18,27 @@ middlebutton {
 
 .download{
   position: fixed;
-  botton: 10px;
-  right: 20px;
+  bottom: 10px;
+  center: 10px;
 }
+
 
 #Site-List{
   position: fixed;
   bottom: 10px;
   right: 10px;
+}
+
+.hs{
+position: fixed;
+bottom: 10px;
+right: 20px;
+}
+
+.future-patches{
+  position: fixed;
+  bottom: 10px;
+  left: 30px;
 }
 
 body {
